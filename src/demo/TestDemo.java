@@ -14,4 +14,6 @@ public static void main(String args[]) {
 
 	//this is coming from github
 
+	//today is friday
+
 }
